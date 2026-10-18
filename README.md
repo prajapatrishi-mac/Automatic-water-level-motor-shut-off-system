@@ -53,4 +53,5 @@ The battery, relay, and motor must be compatible with each other. Check the circ
 ## Author
 
 Built as a student hardware project for Hack Club Forge.
-<img width="720" height="1280" alt="1000034602" src="https://github.com/user-attachments/assets/49aaf084-6a65-4bdd-94e1-e2e9c6ad28f9" />
+<img width="1600" height="720" alt="1000034703" src="https://github.com/user-attachments/assets/01a6e966-8bb7-442b-9960-d94da48ce053" />
+
