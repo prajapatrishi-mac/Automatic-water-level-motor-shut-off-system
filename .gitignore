@@ -1,0 +1,16 @@
+# Temporary files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Arduino build files
+build/
+*.elf
+*.hex
+*.bin
+*.o
+
+# Editor settings
+.vscode/
+.idea/
