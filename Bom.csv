@@ -1,0 +1,8 @@
+Component,Quantity,Purpose,Status
+Arduino UNO,1,Main controller,Collected
+Water level sensor,1,Detect water level,Verify sensor type
+Relay module,1,Control motor switching,Collected
+Lithium-ion battery,1,Power supply,Collected
+Connecting wires,As required,Connect components,Collected
+Switch,1,Manual power control,Collected
+DC motor or water pump,1,Move water,Collected
